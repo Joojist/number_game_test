@@ -11,7 +11,7 @@ public class SimulationTest {
 
     @Test
     void simulateMillionGames() throws InterruptedException {
-        int games = 1;
+        int games = 1_000_000;
         double betAmount = 1.0;
         int threads = 24;
 

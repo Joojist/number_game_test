@@ -13,7 +13,7 @@ A simple WebSocket-based number betting game built with Spring Boot. Players bet
 * 10-second automatic game rounds
 * Each winning number is broadcast to all players
 * Players receive a personal result message each round
-* Total winnings are tracked per player (session-based)
+* Total winnings are tracked per player (session-based) – added for fun statistics
 
 ---
 
