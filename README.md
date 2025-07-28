@@ -1,6 +1,6 @@
 
 
-**YOLO Game Server - WebSocket Betting Game**
+**WebSocket Betting Game**
 
 A simple WebSocket-based number betting game built with Spring Boot. Players bet on a number from 1 to 10. Every 10 seconds, a random winning number is drawn. If the player's number matches, they win 9.9× their bet. The game also tracks total winnings per player name for the session.
 
